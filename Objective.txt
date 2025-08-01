@@ -1,0 +1,7 @@
+objective:-
+
+1. Volume of stock Traded
+2. Netflix Stock Price-High,Open,Close
+3. Netflix Stock Price-Day,Month,Year wise
+4. Top-5 Dates with Highest Stock Price
+5. Top-5 Dates with Lowest Stck Price
