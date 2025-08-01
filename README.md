@@ -37,4 +37,38 @@ To install all required packages:
 
 ```bash
 pip install pandas matplotlib seaborn numpy
-# Netflix-Stock-Analysis
+📈 Visualizations Included
+📊 Volume vs Time
+
+📈 Stock Prices: High, Close, Open
+
+📅 Grouped Volume Trends: Day-wise, Month-wise, Year-wise
+
+🟢 Highest 5 Stock Prices
+
+🔴 Lowest 5 Stock Prices
+
+📂 Dataset Source
+📌 Kaggle: Netflix Stock Data (CSV)
+
+File: NFLX.csv
+
+🚀 How to Run
+Clone this repository or download the folder
+
+Make sure NFLX.csv is in the same folder
+
+Open Netflix project.ipynb using Jupyter Notebook or VS Code
+
+Run the cells in sequence
+
+💡 Future Improvements
+Add moving averages (e.g., 20-day, 50-day)
+
+Forecast stock prices using ARIMA or LSTM
+
+Deploy this analysis using Streamlit
+
+📬 Contact
+Vanshika Gupta
+For queries or suggestions, feel free to reach out on LinkedIn.
